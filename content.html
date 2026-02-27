@@ -1,0 +1,13 @@
+<p>In this example, we will write a piece of Python code which prints all the vowels in a string.</p>
+
+<py-cell>
+input_string = "A longish string"
+
+for letter in input_string:
+    if letter in "aeiouAEIOU":
+        print(letter)
+</py-cell>
+
+<p>When this code runs, <code class="language-python">letter</code> takes on each character in <code class="language-python">input_string</code> in turn, and the <code class="language-python">if</code> statement checks if that character is a vowel. It does this by seeing if the character appears in the string "aeiouAEIOU". As strings are case-sensitive, both uppercase and lowercase vowels are included in the string to be checked against.</p>
+
+<p>If the character currently being considered appears in the string of vowels, it is printed.</p>

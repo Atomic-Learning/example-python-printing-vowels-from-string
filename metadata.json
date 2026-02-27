@@ -1,0 +1,18 @@
+{
+    "title": "Example: Printing Vowels from a String in Python",
+    "slug": "example-python-printing-vowels-from-string",
+    "description": "An example that prints vowels from a string using for loops to iterate through a string characters and apply conditional checks.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 7,
+    "prerequisites": [
+        "python-for-loops-over-iterables",
+        "python-in-operator-membership",
+        "python-conditionals-if-elif-else"
+    ],
+    "related": []
+}
