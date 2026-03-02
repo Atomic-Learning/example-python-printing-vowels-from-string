@@ -8,7 +8,7 @@
     "tags": [
         "python"
     ],
-    "duration": 7,
+    "duration": 3,
     "prerequisites": [
         "python-for-loops-over-iterables",
         "python-in-operator-membership",
